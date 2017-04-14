@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/themogwi
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://mogwi.network
+  * I am themogwi (https://keybase.io/themogwi) on keybase.
+  * I have a public key ASASdVMHgTlD-CpD36470Rrseb58E9bBdcz7cOlIWuKjAgo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101e98412ce7e9c0269f0b1dfb566dffb23776bef3386a385942306b9b380563bc50a",
+            "host": "keybase.io",
+            "kid": "012012755307813943f82a43dfae3bd11aec79be7c13d6c175ccfb70e9485ae2a3020a",
+            "uid": "5a13612f69782c197e61e2bd3f2e4919",
+            "username": "themogwi"
+        },
+        "service": {
+            "hostname": "mogwi.network",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1481187693,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1481187558,
+        "hash": "9aff2357681e1c28372b1f003145009a492aed9e87cc44de99478ddf62328ae55f713c371d877a716214ec247c3c4169fea19bfd475372db099b020d3641cd78",
+        "seqno": 752664
+    },
+    "prev": "0068a2e3dd47d8808b968c30afac280b342057f001004314f90ec0a988d804c4",
+    "seqno": 19,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgEnVTB4E5Q/gqQ9+uO9Ea7Hm+fBPWwXXM+3DpSFriowIKp3BheWxvYWTFAvV7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxZTk4NDEyY2U3ZTljMDI2OWYwYjFkZmI1NjZkZmZiMjM3NzZiZWYzMzg2YTM4NTk0MjMwNmI5YjM4MDU2M2JjNTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMTI3NTUzMDc4MTM5NDNmODJhNDNkZmFlM2JkMTFhZWM3OWJlN2MxM2Q2YzE3NWNjZmI3MGU5NDg1YWUyYTMwMjBhIiwidWlkIjoiNWExMzYxMmY2OTc4MmMxOTdlNjFlMmJkM2YyZTQ5MTkiLCJ1c2VybmFtZSI6InRoZW1vZ3dpIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJtb2d3aS5uZXR3b3JrIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xOCJ9LCJjdGltZSI6MTQ4MTE4NzY5MywiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDgxMTg3NTU4LCJoYXNoIjoiOWFmZjIzNTc2ODFlMWMyODM3MmIxZjAwMzE0NTAwOWE0OTJhZWQ5ZTg3Y2M0NGRlOTk0NzhkZGY2MjMyOGFlNTVmNzEzYzM3MWQ4NzdhNzE2MjE0ZWMyNDdjM2M0MTY5ZmVhMTliZmQ0NzUzNzJkYjA5OWIwMjBkMzY0MWNkNzgiLCJzZXFubyI6NzUyNjY0fSwicHJldiI6IjAwNjhhMmUzZGQ0N2Q4ODA4Yjk2OGMzMGFmYWMyODBiMzQyMDU3ZjAwMTAwNDMxNGY5MGVjMGE5ODhkODA0YzQiLCJzZXFubyI6MTksInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAQnQVApEqZ0b+f2vZbt9LYszYdUtPAVJdrvfbae5kcT5GcMg/b3tijPCxxGZ1o0upyVESps74sxnlJAqM7vV0BqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJwkAyTQNyVGLm28Ibd2TEZ4Zcu53exr04aHPeFZOQmBo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/themogwi
+
+==================================================================

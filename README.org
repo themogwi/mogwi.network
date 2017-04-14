@@ -1,0 +1,29 @@
+* themogwi.github.io
+
+WIP Personal Site and Playground
+
+aka mogwi.network
+
+** Quickstart
+
+*** Install the local dependencies.
+#+BEGIN_SRC shell
+npm install
+#+END_SRC
+
+** Commands
+
+*** Watch For Changes & Automatically Refresh Across Devices
+#+BEGIN_SRC shell
+gulp serve
+#+END_SRC
+
+*** Build & Optimize
+#+BEGIN_SRC shell
+gulp
+#+END_SRC
+
+*** Serve the Fully Built & Optimized Site
+#+BEGIN_SRC shell
+gulp serve:dist
+#+END_SRC
