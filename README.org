@@ -1,8 +1,6 @@
-* themogwi.github.io
+* mogwi.network
 
 WIP Personal Site and Playground
-
-aka mogwi.network
 
 ** Quickstart
 
