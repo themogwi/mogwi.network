@@ -3,3 +3,4 @@ CONTRIBUTING.md export-ignore
 
 *.zip binary
 *.pdf binary
+*.xcf binary
