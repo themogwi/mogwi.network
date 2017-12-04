@@ -1,2 +1,5 @@
 * text=auto
 CONTRIBUTING.md export-ignore
+
+*.zip binary
+*.pdf binary
